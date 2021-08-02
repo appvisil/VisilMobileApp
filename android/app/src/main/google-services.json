@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5172822690",
+    "firebase_url": "https://app-visil.firebaseio.com",
+    "project_id": "app-visil",
+    "storage_bucket": "app-visil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5172822690:android:432ffb1cea085f8c544dfb",
+        "android_client_info": {
+          "package_name": "com.appvisil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5172822690-0mpogp4u4tvklk1fvqkci8iko0uh74fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2GP95GNWdprOIRR-7NADRUMQ-E1Duw8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5172822690-0mpogp4u4tvklk1fvqkci8iko0uh74fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
